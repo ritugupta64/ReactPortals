@@ -1,3 +1,13 @@
+
+#################### NOTE
+Its the basic of React Portal
+In App.js we can call the component inside the portal component.
+####################
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
